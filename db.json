@@ -5,7 +5,7 @@
     "CUSTSTA_DELQ": "B",
     "VINARW_DUE_DTE": 20170505,
     "CUSTSTA_NXTCYC_DATE": 20170420,
-    "CUSTSTA_GD": "5",
+    "CUSTSTA_GD": "2",
     "IS_SHOW_CONTRACT": false,
     "CONTRACT_URL": "http://google.com.tw",
     "IS_STAGING_QUALIFICATION": false,
