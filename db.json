@@ -1,0 +1,13 @@
+{
+    "VINARW_BEG_BAL": 20000,
+    "VINARW_MIN_PAY": 400,
+    "VINARW_NARROW_AMT": 5600,
+    "CUSTSTA_DELQ": "B",
+    "VINARW_DUE_DTE": 20170505,
+    "CUSTSTA_NXTCYC_DATE": 20170420,
+    "CUSTSTA_GD": "5",
+    "IS_SHOW_CONTRACT": false,
+    "CONTRACT_URL": "http://google.com.tw",
+    "IS_STAGING_QUALIFICATION": false,
+    "MESSAGE": "message"
+}
