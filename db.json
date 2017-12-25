@@ -1,5 +1,5 @@
 {
-    "VINARW_BEG_BAL": 20000,
+    "test":{"VINARW_BEG_BAL": 20000,
     "VINARW_MIN_PAY": 400,
     "VINARW_NARROW_AMT": 5600,
     "CUSTSTA_DELQ": "B",
@@ -9,5 +9,5 @@
     "IS_SHOW_CONTRACT": false,
     "CONTRACT_URL": "http://google.com.tw",
     "IS_STAGING_QUALIFICATION": false,
-    "MESSAGE": "message"
+    "MESSAGE": "message"}
 }
